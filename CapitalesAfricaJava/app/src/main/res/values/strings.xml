@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capitales de África Java</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="slogan">Una aplicacion para aprender las capitales de África</string>
+</resources>
