@@ -2,4 +2,6 @@
     <string name="app_name">Capitales de África Java</string>
     <string name="comenzar">Comenzar</string>
     <string name="slogan">Una aplicacion para aprender las capitales de África</string>
+    <string name="introduzca">INDICA SU CAPITAL</string>
+    <string name="otro">Mostrar otro país</string>
 </resources>
