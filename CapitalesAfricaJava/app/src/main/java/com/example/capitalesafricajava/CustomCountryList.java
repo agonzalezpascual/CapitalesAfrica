@@ -34,7 +34,6 @@ public class CustomCountryList extends ArrayAdapter {
         TextView textViewCountry = (TextView) row.findViewById(R.id.textViewCountry);
         TextView textViewCapital = (TextView) row.findViewById(R.id.textViewCapital);
         ImageView imageFlag = (ImageView) row.findViewById(R.id.imageViewFlag);
-
         textViewCountry.setText(countryNames[position]);
         textViewCapital.setText(capitalNames[position]);
         imageFlag.setImageResource(imageid[position]);
